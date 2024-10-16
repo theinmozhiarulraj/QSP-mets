@@ -1,0 +1,118 @@
+Naive CD4+ T cells in central comp., cells/ml
+Naive CD8+ T cells in central comp., cells/ml
+Tregs in central comp., cells/ml
+Th in central comp., cells/ml
+Antibody in central comp., nM
+Naive CD4+ T cells in periphery, NA
+Naive CD8+ T cells in periphery, NA
+Tregs in periphery, NA
+Th in periphery, NA
+Antibody in periphery, nM
+Tcyt in central comp., cells/ml
+Treg/Tcyt in central comp., NA
+Th/Tcyt in central comp., NA
+Treg/Th in central comp., NA
+Th+Tcyt in central comp., NA
+T cells in central comp., cells/ml
+(Th+Tcyt)/T cells in central comp., NA
+Th/T cells in central comp., NA
+Tcyt/T cells in central comp., NA
+Treg/T cells in central comp., NA
+Tcyt richness in central comp., NA
+Tcyt diversity in central comp., NA
+Tcyt evenness in central comp., NA
+Dead cancer cell, cells/ml
+Exhausted Tcyt, cells/ml
+Exhausted Th, cells/ml
+Carrying capacity, NA
+Angiogenic factor, pg/ml
+Treg, cells/ml
+immature APC, cells/ml
+mAPC, cells/ml
+APC maturation cytokine, M
+Self Ag, M
+anti-PD-1 antibody, nM
+Th, cells/ml
+TGFb, nM
+IFNg, nM
+MDSC, cells/ml
+NO, nM
+ArgI, mU
+CCL2, nM
+M1 Mac, cells/ml
+M2 Mac, cells/ml
+IL12, nM
+IL10, nM
+Tcyt, cells/ml
+Ag, M
+Cancer cells, cells/ml
+Treg/Tcyt, NA
+Th/Tcyt, NA
+Treg/Th, NA
+Th+Tcyt, NA
+T cells, cells/ml
+(Th+Tcyt)/T cells, NA
+Th/T cells, NA
+Tcyt/T cells, NA
+Treg/T cells, NA
+Mac, cells/ml
+M2/M1 Mac ratio, NA
+M1/(M1+M2) Mac, NA
+M2/(M1+M2) Mac, NA
+Total number of cells in tumor, NA
+TIL fraction, NA
+Immune supp. cells, cells/ml
+Immune act. cells, cells/ml
+Immune supp./act. cells, NA
+Immune supp. cell fraction, NA
+Immune act. cell fraction, NA
+MDSC fraction, NA
+M1 Mac fraction, NA
+M2 Mac fraction, NA
+Mac fraction, NA
+Treg fraction, NA
+Tcyt fraction, NA
+Th fraction, NA
+Tcyt+Th cell fraction, NA
+mAPC fraction, NA
+APC fraction, NA
+Exhausted Tcyt fraction, NA
+Exhausted Th fraction, NA
+Immune cell fraction, NA
+Cancer clone richness, NA
+Tcyt richness, NA
+Cancer clone diversity, NA
+Tcyt diversity, NA
+Cancer clones evenness, NA
+Tcyt evenness, NA
+neo-Ag diversity, NA
+neo-Ag evenness, NA
+Tumor diameter, cm
+Neo-Ag specific T cell clones, NA
+PDL1 in tumor, molecule/micrometer^2
+PDL1 on APCs, molecule/micrometer^2
+PDL1 on T cells in tumor, molecule/micrometer^2
+PDL1 on T cells in LNs, molecule/micrometer^2
+Naive CD4+ T cells in LNs, cells/mm^3
+Act. CD4+ T cells in LNs, cells/mm^3
+Tregs in LNs, cells/mm^3
+IL2, nM
+Naive CD8+ T cells in LNs, cells/mm^3
+Th in LNs, cells/mm^3
+Act. Th in LNs, cells/mm^3
+Antibody in LNs, nM
+Tcyt in LNs, cells/mm^3
+Treg/Tcyt in LNs, NA
+Th/Tcyt in LNs, NA
+Treg/Th in LNs, NA
+Th+Tcyt in LNs, cells/mm^3
+T cells in LNs, cells/mm^3
+(Th+Tcyt)/T cells in LNs, NA
+Th/T cells in LNs, NA
+Tcyt/T cells in LNs, NA
+Treg/T cells in LNs, NA
+APCs in LNs, cells/mm^3
+Tcyt richness in LNs, NA
+Tcyt diversity in LNs, NA
+Tcyt evenness in LNs, NA
+Response, NA
